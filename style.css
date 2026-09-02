@@ -1,0 +1,7 @@
+:root{
+    --roxo-principal:#b040e4;
+}
+
+nav, a ,li{
+    background-color: var(--roxo-principal);
+}
